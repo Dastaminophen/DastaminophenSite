@@ -1,25 +1,29 @@
 ---
-  title: "Personal post"
+  title: "از ما حمایت کنید"
   date: 2021-01-13T19:10:40+06:00
   tags: "travel"
   tranding: false
   readTime: "10 min"
-  thumbnail: /images/blog/blog-thum-1.png
-  featureImage: /images/blog/feature-image-03.jpg
+  thumbnail: /images/logo.webp
+  featureImage: /images/logo.webp
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.
+من کی هستم و چه فعاليتی می کنم؟
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+من ایمان نجیمی هستم و عاشق قصّه گفتنم. داستامینوفن هم از بین همین جلسات قصّه خوانی با یاری بچه هایی که عاشق این‌کار بودن شکل گرفت. 
 
-### Make better business
+ما در داستامینوفن شاهنامه رو با شکلی جدید به صورت قصه و به زبان روان در قالبی نمایشی به همراه موسیقی برای شما می‌خونیم تا شنیدن قصه های کهن فارسی رو با رنگ و بویی جدید تجربه کنید. 
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+اما فقط شاهنامه نیست که رنگ جدیدی با این روش قصه خوانی گرفته. کلی قصه ی جذاب دیگه هم هست.
 
-> sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren!
+من ایمان نجیمی تمام تلاشم اینه که در داستامینوفن برای شما کتاب نخونم بلکه شما رو دور آتیش جمع کنم و براتون با زبان دلم قصّه بخونم.
 
-![](/images/blog/feature-image-07.jpg)
 
-### The Dreamy Factors
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+چرا من در حامی باش هستم؟
+
+حقیقت این هست که تولید این پادکست کلی انرژی و زمان می‌بره. ما قصه ها رو بازنویسی می‌کنیم تا با زبانی ساده و نمایشی به هر کارکتری در قصه روح بدیم تا شما حس نکنید دارید به یک کتابخوانی ساده گوش می‌کنید.
+
+این روزها خرید یک کتاب صوتی ساده که گوینده از روی کتاب برای شما قصه رو روایت می‌کنه بین ۳۰ تا ۵۰ هزار تومان هزینه داره. و هر قسمت داستامینوفن که هفتگی بیرون میاد چیزی بالغ بر ۱۶ ساعت زمان برای تولید میبره از بازنویسی، کارکتر سازی شخصیت ها، صداسازی و خوانش و‌ تدوین و تصویر سازی. اون هم به صورت کاملا رایگان. اما بچه های داستامینوفن برای اینکه بتونن قدم های بزرگتری در این مسیر بردارن و کیفیت کار رو روز به روز بیشتر بکنن قطعا باید توان مالی حداقلی برای تامین مخارج روزانه و تهیه و تنظیم هر اپیزود از این پادکست رو داشته باشن. پس کوچکترین کمک شما اینجا میتونه انرژی مضاعفی برای ادامه این راه به ما بده تا چراغ خونه ی داستامینوفن خاموش نشه.
+
+https://hamibash.com/dastaminophen
