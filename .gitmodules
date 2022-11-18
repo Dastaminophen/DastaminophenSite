@@ -1,3 +1,6 @@
-[submodule "BloggeHugo"]
-	path = BloggeHugo
+[submodule "themes/BloggeHugo"]
+	path = themes/BloggeHugo
 	url = git@github.com:StaticMania/blogge-hugo-theme.git
+[submodule "themes/DastaminophenBloggeTheme"]
+	path = themes/DastaminophenBloggeTheme
+	url = git@github.com:Dastaminophen/DastaminophenBloggeTheme.git
