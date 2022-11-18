@@ -1,6 +1,7 @@
 ---
   title: "اپیزود پنجاه و هفتم شاهنامه - جای خالی اسفندیار"
   date: 2021-01-13T17:33:14+06:00
+  persianDate: ۱۴۰۱/۲/۲
   featured: true
   tags: "شاهنامه"
   tranding: true
