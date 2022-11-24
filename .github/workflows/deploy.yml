@@ -25,6 +25,7 @@ jobs:
         
       - name: CNAME config
         run: echo "dastaminophen.com" > ./public/CNAME
+        run: echo "www.dastaminophen.com" > ./public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
