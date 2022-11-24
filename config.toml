@@ -8,15 +8,15 @@ summarylength = 10
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "حمایت"
     url= ""
     weight= 1
   [[menu.main]]
-    name = "About"
+    name = "ارتباط با ما"
     url= "about"
     weight= 2
   [[menu.main]]
-    name = "Contact"
+    name = "درباره ما"
     url= "contact"
     weight= 3
 
