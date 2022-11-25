@@ -1,10 +1,9 @@
 ---
-  title: "Officel first post"
+  title: "اپل"
   date: 2021-01-13T18:30:40+06:00
-  tags: "office"
+  tags: "Podcast Feed"
   tranding: true
-  readTime: "3 min"
-  thumbnail: /images/blog/blog-thum-6.png
+  thumbnail: https://thefitdelish.com/wp-content/uploads/2020/08/Apple-Podcast-Logo.png
   featureImage: /images/blog/feature-image-08.jpg
 ---
 
