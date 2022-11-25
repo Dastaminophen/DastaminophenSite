@@ -35,6 +35,7 @@ summarylength = 10
   # Replace the third party URL/API with yours
   # We're using formspree.io for form handling, paste your formspree url below
   fabformURL  = "9AJk8ro"
+  mainSections = ["mainpage", "shabgheseh", "shahnameh", "magazine"]
 
 [taxonomies]
   tag = "tags"
