@@ -1,0 +1,64 @@
+
+baseURL: "https://dastaminophen.com/"
+languageCode: "fa-ir"
+title: "داستامینوفن"
+theme: "DastaminophenBloggeTheme"
+favicon: static/favicon.ico
+paginate: 6
+summarylength: 10
+
+
+params:
+  subtitle: "گروه کاربران لینوکس تهران"
+  mapView: 0.002
+
+  excludedTypes: [gallery]
+  mainSections: [event, news]
+
+
+
+  summarylength: 80
+  logo: "images/logo.svg"
+  author: "ایمان نجیمی"
+  authorThumb: "images/author.png"
+  instaUsername: "dastaminophen"
+  telegramUsername: "dastaminophen"
+  twitterUsername: "dastaminophen"
+  linkedinUsername: "dastaminophen"
+  blogTitle: "داستامینوفن"
+  blogSubTitle: "پادکستی برای دوستداران قصّه"
+  trendingBlogIcon: "images/blog/icon.svg"
+  # Replace the third party URL/API with yours
+  # We're using formspree.io for form handling, paste your formspree url below
+  fabformURL: "9AJk8ro"
+  mainSections: ["mainpage", "shabgheseh", "shahnameh", "magazine"]
+
+  menu:
+    main:
+      [
+        { name: "حمایت", url: "/", weight: 1 },
+        { name: "ارتباط با ما", url: "/contact", weight: 2 },
+        { title: "درباره ما", url: "/about", weight: 3 }
+      ]
+
+  
+  podcastlinks:
+    [
+      {
+        name: "Apple",
+        icon: "/images/blog/blog-thum-2.png",
+        link: "https://castbox.com/"
+      },
+      {
+        name: "Cast boxs",
+        icon: "/images/blog/blog-thum-2.png",
+        link: "https://castbox.com/"
+      }
+    ]
+
+
+taxonomies:
+  type: "type"
+
+
+
