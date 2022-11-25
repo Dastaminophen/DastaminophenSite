@@ -7,24 +7,27 @@
   thumbnail: /images/blog/blog-thum-2.png
   featureImage: /images/blog/feature-image-04.jpg
 ---
+# قصه های شاهنامه
+## قصه هایی از قدیم برای 
+### تا قصه های جدید
+روزهایی که گذشت روز های گرملی بود و آفتاب بر ما تابیده بود بل
+و سوزش را بر پوستمان حس می کردیم .  
+قهقاقهقللقل لقلق.
 
-تتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتت
-تتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتت
+جنگ **رستم**   
+> افراسیاب  
+- قباد
 
 
+  مدمندنتذتب تتی  
+  ذاب تیملمس تلسمسذ نتلی مسبمابسمب مسبایمبا مبذیثتذمشب تسبذمبحهابضثبهحب مصبذمثبابثمه صمثبمه مصبذمث مصبصمذثم مصبمثذبمثذمذ    
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.
+ ![](https://mdg.imgix.net/assets/images/tux.png)  
+  *** 
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata et.
+  ---
 
-### Make better business
+  _____
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam t justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-> You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction.
-
-![](/images/blog/feature-image-03.jpg)
-
-### The Dreamy Factors
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+  [رستم](google.com
+  )
