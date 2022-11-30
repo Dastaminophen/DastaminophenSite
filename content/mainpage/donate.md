@@ -13,7 +13,7 @@ https://hamibash.com/dastaminophen
 
 
 
-جنگ **رستم**   
+  
 > افراسیاب  
 - قباد
 
