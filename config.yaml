@@ -24,7 +24,7 @@ params:
 
 
   summarylength: 80
-  logo: "images/logo.svg"
+  logo: "images/logo.png"
   author: "ایمان نجیمی"
   authorThumb: "images/author.png"
   instaUsername: "dastaminophen"

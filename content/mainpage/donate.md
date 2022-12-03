@@ -1,8 +1,8 @@
 ---
   title: "حمایت از ما"
   date: 2022-02-13T18:10:40+06:00
-  thumbnail: /images/blog/blog-thum-2.png
-  featureImage: /images/blog/feature-image-04.jpg
+  thumbnail: /images/donate.jpg
+  featureImage: /images/donate_banner.jpg
   type: mainpage
 ---
  چراغ این پادکست رو روشن نگه دار
