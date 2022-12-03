@@ -1,7 +1,7 @@
 ---
   title: "شب قصه‌ها"
   date: 2022-01-13T18:10:40+06:00
-  thumbnail: /images/blog/blog-thum-2.png
+  thumbnail: /images/shabghese.jpg
   featureImage: /images/blog/feature-image-04.jpg
   type: mainpage
 ---
