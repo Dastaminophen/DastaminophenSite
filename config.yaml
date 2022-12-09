@@ -16,11 +16,6 @@ menu:
     ]
 
 params:
-
-  excludedTypes: [gallery]
-  mainSections: [event, news]
-
-
   summarylength: 80
   logo: "images/logo.png"
   author: "ایمان نجیمی"
@@ -63,7 +58,6 @@ params:
 
 
 taxonomies:
-  type: "type"
-
+  type: "types"
 
 
