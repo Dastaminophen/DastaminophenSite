@@ -16,8 +16,6 @@ menu:
     ]
 
 params:
-  subtitle: "گروه کاربران لینوکس تهران"
-  mapView: 0.002
 
   excludedTypes: [gallery]
   mainSections: [event, news]
@@ -42,49 +40,24 @@ params:
   podcastlinks:
     [
       {
-        name: "Apple",
+        name: "کست باکس",
+        icon: "/images/apps/castbox.png",
+        link: "https://castbox.fm/channel/id3634536"
+      },
+      {
+        name: "گوگل",
+        icon: "/images/apps/google.png",
+        link: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzYyNGFmZDk4ZjNjM2NmMDAxMzRjYzI4YQ/"
+      },
+      {
+        name: "اپل",
         icon: "/images/apps/apple.png",
         link: "https://castbox.com/"
       },
       {
-        name: "Cast boxs",
-        icon: "/images/blog/blog-thum-2.png",
-        link: "https://castbox.com/"
-      },
-      {
-        name: "Cast boxs",
-        icon: "/images/blog/blog-thum-2.png",
-        link: "https://castbox.com/"
-      },
-      {
-        name: "Cast boxs",
-        icon: "/images/blog/blog-thum-2.png",
-        link: "https://castbox.com/"
-      },
-      {
-        name: "Cast boxs",
-        icon: "/images/blog/blog-thum-2.png",
-        link: "https://castbox.com/"
-      },
-      {
-        name: "Cast boxs",
-        icon: "/images/blog/blog-thum-2.png",
-        link: "https://castbox.com/"
-      },
-      {
-        name: "Cast boxs",
-        icon: "/images/blog/blog-thum-2.png",
-        link: "https://castbox.com/"
-      },
-      {
-        name: "Cast boxs",
-        icon: "/images/blog/blog-thum-2.png",
-        link: "https://castbox.com/"
-      },
-      {
-        name: "Cast boxs",
-        icon: "/images/blog/blog-thum-2.png",
-        link: "https://castbox.com/"
+        name: "اسپاتیفای",
+        icon: "/images/apps/spotify.png",
+        link: "https://open.spotify.com/show/6YkPjlh0hAbNIXWY6xhiQR"
       }
     ]
 
