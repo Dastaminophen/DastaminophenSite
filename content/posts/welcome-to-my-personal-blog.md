@@ -8,7 +8,7 @@
   readTime: "۲۶ دقیقه"
   thumbnail: /images/dastan.webp
   featureImage: /images/dastan.webp
-  mediaFiles: mp3/57.mp3
+  mediaFiles: /mp3/57.mp3
 ---
 گشتاسپ، شاهزاده رانده شده از ایران به کاخ قیصر روم وارد میشه و کتایون، دختر قیصر، نگاهش به پهلوان ایرانی گره میخوره
 

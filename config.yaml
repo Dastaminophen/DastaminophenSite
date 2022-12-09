@@ -10,9 +10,9 @@ summarylength: 10
 menu:
   main:
     [
-      { name: "حمایت", url: "/", weight: 1 },
-      { name: "ارتباط با ما", url: "/contact", weight: 2 },
-      { name: "درباره ما", url: "/about", weight: 3 }
+      { name: "حمایت", url: "/mainpage/donate/", weight: 1 },
+      { name: "ارتباط با ما", url: "/contactus", weight: 2 },
+      { name: "درباره ما", url: "/aboutus", weight: 3 }
     ]
 
 params:
@@ -41,22 +41,22 @@ params:
     [
       {
         name: "کست باکس",
-        icon: "/images/apps/castbox.png",
+        icon: "/images/apps/castbox.svg",
         link: "https://castbox.fm/channel/id3634536"
       },
       {
         name: "گوگل",
-        icon: "/images/apps/google.png",
+        icon: "/images/apps/google.svg",
         link: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzYyNGFmZDk4ZjNjM2NmMDAxMzRjYzI4YQ/"
       },
       {
         name: "اپل",
-        icon: "/images/apps/apple.png",
+        icon: "/images/apps/apple.svg",
         link: "https://castbox.com/"
       },
       {
         name: "اسپاتیفای",
-        icon: "/images/apps/spotify.png",
+        icon: "/images/apps/spotify.svg",
         link: "https://open.spotify.com/show/6YkPjlh0hAbNIXWY6xhiQR"
       }
     ]

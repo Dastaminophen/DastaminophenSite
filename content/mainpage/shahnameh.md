@@ -1,8 +1,8 @@
 ---
   title: "شاه نامه به نثر"
+  description: "توضیحات شاه نامه توضیحات شاه نامه توضیحات شاه نامه توضیحات شاه نامه توضیحات شاه نامه توضیحات شاه نامه توضیحات شاه نامه ."
   date: 2022-01-13T18:10:40+06:00
   thumbnail: /images/shahname.jpg
-  featureImage: /images/blog/feature-image-04.jpg
   type: mainpage
 ---
 # قصه های شاهنامه

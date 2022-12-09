@@ -1,8 +1,8 @@
 ---
   title: "حمایت از ما"
+  description: "توضیحات حمایت توضیحات حمایت توضیحات حمایت توضیحات حمایت توضیحات حمایت."
   date: 2022-02-13T18:10:40+06:00
   thumbnail: /images/donate.jpg
-  featureImage: /images/donate_banner.jpg
   type: mainpage
 ---
  چراغ این پادکست رو روشن نگه دار
