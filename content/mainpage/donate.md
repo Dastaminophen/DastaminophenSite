@@ -5,10 +5,10 @@
   thumbnail: /images/donate.jpg
   type: mainpage
 ---
- ## چراغ این پادکست رو روشن نگه دار
+  چراغ این پادکست رو روشن نگه دار
 
- # اگر از داخل ایران ما رو حمایت می‌کنید از طریق لینک زیر:  
-https://hamibash.com/dastaminophen
+  اگر از داخل ایران ما رو حمایت می‌کنید از طریق لینک زیر:  
+**https://hamibash.com/dastaminophen**
 
  
 
