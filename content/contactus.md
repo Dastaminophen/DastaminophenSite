@@ -2,4 +2,7 @@
   title: "ارتباط با ما"
 ---
 
-با ما از طریق زیر میتوانید تماس بگیرید
+ از راه‌های زیر می‌توانید با ما در تماس باشید:
+
+ Email: dastaminophen@gmail.com
+ Email: najimiiman@gmail.com
