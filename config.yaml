@@ -42,12 +42,12 @@ params:
       {
         name: "گوگل",
         icon: "/images/apps/google.svg",
-        link: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzYyNGFmZDk4ZjNjM2NmMDAxMzRjYzI4YQ/"
+        link: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzYyNGFmZDk4ZjNjM2NmMDAxMzRjYzI4YQ"
       },
       {
         name: "اپل",
         icon: "/images/apps/apple.svg",
-        link: "https://castbox.com/"
+        link: "https://podcasts.apple.com/us/podcast/dastaminophen-پادكست-فارسی-داستامينوفن/id1545803646"
       },
       {
         name: "اسپاتیفای",
