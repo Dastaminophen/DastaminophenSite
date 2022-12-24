@@ -20,8 +20,8 @@ najimiiman@gmail.com :اگر دوست داشتید حتما بهم ایمیل ب
 **رمز ارزها**
 یکی از جذاب‌ترین راه های کمک به من که خیلی هم خوشحالم می‌کنه همینه  
 
-**تتر** "/images/tether.svg"
-"/images/tether.jpg"
+**تتر** ![](/images/tether.svg)
+![](/images/tether.jpg)
 TF7d4QRujdEXvMDM6sujGgddsmjHv8Fee4
 
  
