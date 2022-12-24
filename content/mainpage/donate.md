@@ -21,9 +21,23 @@ najimiiman@gmail.com :اگر دوست داشتید حتما بهم ایمیل ب
 
 **رمز ارزها**  
 یکی از جذاب‌ترین راه های کمک به من که خیلی هم خوشحالم می‌کنه همینه   
-**تتر** ![](/images/tether.svg)
+**تتر/USDT** ![](/images/tether.svg)  
 ![](/images/tether.jpg)
-TF7d4QRujdEXvMDM6sujGgddsmjHv8Fee4
+TF7d4QRujdEXvMDM6sujGgddsmjHv8Fee4 
+
+**بیت کوین/BTC** ![](/images/bitcoin.svg)    
+![](/images/bitcoin.jpg)     bc1q2wxdsgk29ya2frrqncctlyhq06638r5aww50np  
+
+**اتریوم/ETH**   ![](/images/ethereum.svg)   
+ ![](/images/bitcoin.jpg)  0xea61E86F1D9C9d794006f85Ab3c8A98876a50171
+
+ **دوج/DOGE** ![](/images/doge.svg)  
+ ![](/images/bitcoin.jpg) DMzHqz63FearwtqU71ryKbeBtkttCkYns2
+
+
+
+
+
 
  
 
