@@ -3,7 +3,7 @@
   description: "جنایتی در راه است...اولين قسمت داستان شكار و تاريكي تقابل دو نويسنده ي داستان هاي پليسي است"
   date: 2021-07-07T00:00:00+00:00
   thumbnail: /images/episodepics/sh2.jpg
-  topic: shahname
+  topic: shabghese
   type: podcast
   mediaFiles: /mp3/sh2.mp3
 ---

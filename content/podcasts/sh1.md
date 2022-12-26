@@ -3,7 +3,7 @@
   description: در اولين اپيزود شب قصّه از پسر جوانی گفتيم كه به واسطه شكست يك طلسم جادويی وارد چالش های بزرگی برای ادامه زندگی مي‌شه."
   date: 2021-07-06T00:00:00+00:00
   thumbnail: /images/episodepics/sh1.jpg
-  topic: shahname
+  topic: shabghese
   type: podcast
   mediaFiles: /mp3/sh1.mp3
 ---
