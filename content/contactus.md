@@ -2,7 +2,10 @@
   title: "ارتباط با ما"
 ---
 
- از راه‌های زیر می‌توانید با ما در تماس باشید:
+ اگر تمایل دارید با داستامینوفن در تماس باشید بهترین راه آدرس ایمیل زیر هست اما می‌تونید 
+ به تلگرام من(ایمان نجیمی)هم پیام بفرستید   .
 
- Email: dastaminophen@gmail.com
- Email: najimiiman@gmail.com
+Email: dastaminophen@gmail.com  
+telegram: https://t.me/imannajimi
+ 
+
