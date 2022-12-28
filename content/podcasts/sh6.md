@@ -11,4 +11,4 @@
 
 از طریق لینک زیر چراغ این پادکست رو روشن نگه دارید
 
-https:https://dastaminophen.com/mainpage/donate/
+https://dastaminophen.com/mainpage/donate

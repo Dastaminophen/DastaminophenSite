@@ -12,4 +12,4 @@
 
 از طریق لینک زیر چراغ این پادکست رو روشن نگه دارید
 
-https://hamibash.com/dastaminophen
+https://dastaminophen.com/mainpage/donate
