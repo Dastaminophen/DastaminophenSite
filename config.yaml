@@ -3,7 +3,7 @@ baseURL: "https://dastaminophen.com/"
 languageCode: "fa-ir"
 title: "داستامینوفن"
 theme: "DastaminophenBloggeTheme"
-favicon: static/favicon.ico
+favicon: images/favicon.jpg
 paginate: 6
 summarylength: 10
 
