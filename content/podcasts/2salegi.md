@@ -3,7 +3,7 @@
   description: "در دو سالگی داستامینوفن داستان خوندیم و صدای شما و خاطراتتون با داستامینوفن رو شنیدیم و از ماجرای شکل گیری این پادکست گفتیم" 
   date: 2022-12-14T00:00:00+00:00
   thumbnail: /images/episodepics/2salegi.jpg
-  topic: shahname
+  topic: shabghese
   type: podcast
   mediaFiles: /mp3/2salegi.mp3
 ---

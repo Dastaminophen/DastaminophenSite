@@ -1,6 +1,6 @@
 ---
   title: "اپیزود ششم شب قصه - شکار و تاریکی قسمت پایانی"
-  description: "وقتي پيچيده ترين معمای جنايی لاينحل می‌شود"
+  description: "وقتی پیچیده ترین معمای جنایی لاینحل می‌شود"
   date: 2021-07-11T00:00:00+00:00
   thumbnail: /images/episodepics/sh6.jpg
   topic: shabghese

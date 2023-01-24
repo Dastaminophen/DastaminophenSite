@@ -3,7 +3,7 @@ baseURL: "https://dastaminophen.com/"
 languageCode: "fa-ir"
 title: "داستامینوفن"
 theme: "DastaminophenBloggeTheme"
-favicon: static/favicon.ico
+favicon: images/favicon.jpg
 paginate: 6
 summarylength: 10
 
@@ -47,7 +47,7 @@ params:
       {
         name: "اپل",
         icon: "/images/apps/apple.svg",
-        link: "https://podcasts.apple.com/us/podcast/dastaminophen-پادكست-فارسی-داستامينوفن/id1545803646"
+        link: "https://podcasts.apple.com/us/podcast/dastaminophen-پادکست-فارسی-داستامینوفن/id1545803646"
       },
       {
         name: "اسپاتیفای",
