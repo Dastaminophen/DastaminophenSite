@@ -4,6 +4,7 @@
   date: 2024-05-06T18:10:40+06:00
   thumbnail: /images/event3.jpg
   type: mainpage
+  draft: true
 ---
 اجرای زنده داستامینوفن در تهران
 

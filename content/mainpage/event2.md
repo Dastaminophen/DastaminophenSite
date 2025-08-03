@@ -4,6 +4,7 @@
   date: 2025-05-10T18:10:40+06:00
   thumbnail: /images/event2-1.jpg
   type: mainpage
+  draft: true
 ---
 به‌خاطر روز بزرگداشت فردوسی  
 «زال و رودابه»  
